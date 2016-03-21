@@ -1,6 +1,11 @@
 analytics: {}
 color:
-  brandColors: []
+  brandColors:
+    - '#C0B088'
+    - '#000000'
+    - '#905048'
+    - '#000000'
+    - '#000000'
   brandStrength: 0
   lightness: 0.5
   rhythmicContrast: 0.5
@@ -11,4 +16,4 @@ name: Patrick Dobbins
 opengraph: {}
 purpose:
   - name: engagement
-typography_spectrum: 0.9356533922255039
+typography_spectrum: 0.962837
